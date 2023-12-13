@@ -8,13 +8,13 @@
 
 ### Qu'est-ce que la métaprogrammation ?
 
-La métaprogrammation est une technique de programmation qui consiste à écrire des programmes qui manipulent d'autres programmes (ou eux-mêmes) comme des données, ou qui produisent de tels programmes. C'est une forme d'abstraction qui permet de décrire des algorithmes génériques.
+La métaprogrammation est une technique de programmation qui consiste à écrire des programmes qui manipulent d'autres programmes (ou eux-mêmes) comme des données, ou qui produisent de tels programmes. C'est une forme d'abstraction qui permet de décrire des [algorithmes génériques](https://a3soft.fr/algorithme-sequentiel/).
 
 ### Pourquoi la métaprogrammation en Ruby ?
 
 La métaprogrammation est une technique très utilisée en Ruby. Elle permet de créer des programmes plus génériques et plus flexibles. Elle permet également de créer des programmes plus courts et plus lisibles.
 
-## Etape 2 : Concepts clés en Ruby
+## Etape 2 : Introduction aux concepts clés en Ruby
 
 ### Objets et classes 
 
